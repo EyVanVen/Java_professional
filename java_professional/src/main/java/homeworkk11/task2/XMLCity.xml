@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<city size="Medium">
+    Donetsk
+    <street>
+        Shaposhnikova
+        <House>
+            10
+        </House>
+    </street>
+</city>
